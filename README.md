@@ -1,6 +1,6 @@
 # EKF-SLAM
 
-Simultaneous Localization and Mapping (SLAM) algorithm using an Extended Kalman Filter (EKF) using a dataset gathered with a real Turtlebot.
+Simultaneous Localization and Mapping (SLAM) algorithm using an Extended Kalman Filter (EKF) applied in a dataset gathered with a real Turtlebot.
 
 Simultaneous Localization and mapping is used whenever a new place is visited. When a robot executes a SLAM algorithm, it builds a map while trying to localise itself into it. A map can contain multiple types of information.
 
